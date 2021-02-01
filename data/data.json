@@ -1,0 +1,28 @@
+{
+	"mobiles":[
+		{
+		 "name":"karbon 2.6",
+			"image":"../img/karbon.jpg",
+			" original price":1600,
+			"price":1599
+		},
+		{
+			"name":"nokia 5.66",
+			"image":"../img/nokia.jpg",
+			" original price":1900,
+			"price":1847
+		},
+		{
+			"name":"samsung Guru",
+			"image":"../img/samsung.jpg",
+			" original price":1800,
+			"price":1747
+		},
+		{
+			"name":"kechaoda 8.66",
+			"image":"../img/kechaoda.jpg",	 
+			" original price":1700,
+			"price":1640
+		}
+	]
+} 
